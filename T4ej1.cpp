@@ -13,7 +13,10 @@ int main ()
     cout << endl << endl;
 
     ArregloImpares( i, n);
+
+    return 0;
 }
+
 
 
 int ArregloImpares(int i,int n)
@@ -35,7 +38,6 @@ int ArregloImpares(int i,int n)
         else //separar cada numero con ","//
         {
             cout<< impares[i]<< ", ";
-
         }
     }
     
