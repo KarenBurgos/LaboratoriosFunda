@@ -15,7 +15,6 @@ bool anyo(bool*);
 int fecha (int*, int*, int*);
 
 
-
 int main()
 {
     int opcion;
